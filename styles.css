@@ -29,6 +29,7 @@ body {
 .carte-3 {
     margin-top: -50px;
     padding-bottom: 50px;
+    margin-bottom: 50px;
 }
 
 .carte-2 main {
@@ -75,12 +76,12 @@ main {
     margin-right: 15px;
 }
 
-h1 {
+h2 {
     font-size: 30px;
     font-family: "Playwrite DE SAS", cursive;
 }
 
-h2 {
+h3 {
     margin-top: -20px;
     font-size: 15px;
 }
@@ -95,3 +96,13 @@ h2 {
     }
 
 }
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: -50px;
+    font-size: 50px;
+    color: #7B5234;
+    font-family:  "Cormorant Garamond", serif;
+}
+
