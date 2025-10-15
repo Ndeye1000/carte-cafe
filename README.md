@@ -32,6 +32,7 @@ Ce projet est une carte de visite interactive pour un café fictif "Coffee Co." 
 
 ## 🎨 Structure du projet
 
+```bash
 carte-cafe/
 │
 ├── index.html
@@ -44,6 +45,7 @@ carte-cafe/
 │ ├── map-pin-2-fill.png
 │ └── global-fill.png
 └── README.md
+```
 
 ## 🚀 Installation
 
